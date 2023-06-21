@@ -1,8 +1,1 @@
-csvpath = os.path.join('Resources', 'budget_data_csv')
-with open(csvpath) as csvfile:
-
-
-print("Resources, budget_data_csv")
-
-
 
